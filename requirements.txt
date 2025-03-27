@@ -7,3 +7,5 @@ uvicorn
 scikit-learn
 mlflow
 kaggle
+boto3
+python-dotenv
