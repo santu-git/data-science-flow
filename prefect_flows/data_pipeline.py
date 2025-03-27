@@ -62,7 +62,7 @@ def perform_eda(df):
     plt.close()
 
 # Prefect flow
-@flow
+@flow(log_prints=True)
 def data_pipeline():
     raw_data_path = download_data()
     df = load_data()
