@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+prefect
+fastapi
+uvicorn
+scikit-learn
+mlflow
+kaggle

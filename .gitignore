@@ -1,0 +1,9 @@
+logs/*.log
+data/raw/*
+data/processed/*
+venv
+.DS_Store
+.secrets
+**/**/__pycache__
+mlruns/**/**
+nootbooks/**/**
